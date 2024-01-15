@@ -29,7 +29,6 @@ config.JobType.pluginName = 'Analysis'
 config.JobType.psetName = 'PSet.py'
 config.JobType.scriptExe = 'crab_script_ggOnly.sh'
 config.JobType.inputFiles = ['crab_script_ggOnly.py', '../scripts/haddnano.py', 'keep_and_drop.txt']
-#config.JobType.sendPythonFolder = True
 config.JobType.allowUndistributedCMSSW = True #shouldn't be necessary
 config.JobType.maxMemoryMB = 2500
 
