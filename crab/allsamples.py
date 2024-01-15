@@ -1325,7 +1325,7 @@ XToYHToggbbSamples = [
 'ZGToLLG_01J_5f_TuneCP5_13TeV-amcatnloFXFX-pythia8_RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1_MINIAODSIM_v0',
 'tZq_ll_4f_ckm_NLO_TuneCP5_13TeV-amcatnlo-pythia8_RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1_MINIAODSIM_v0',
 'ttHJetToGG_M125_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8_RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v3_MINIAODSIM_v0',
-#
+
 # 2016nonAPV
 'DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8_RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1_MINIAODSIM_v0',
 'DiPhotonJetsBox_MGG-80toInf_13TeV-sherpa_RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v2_MINIAODSIM_v0',
@@ -1831,7 +1831,7 @@ XToYHToggbbSamples = [
 'EGamma_Run2018A-UL2018_MiniAODv2_GT36-v1_MINIAOD_v0',
 'EGamma_Run2018B-UL2018_MiniAODv2_GT36-v1_MINIAOD_v0',
 'EGamma_Run2018C-UL2018_MiniAODv2_GT36-v1_MINIAOD_v0',
-'EGamma_Run2018D-UL2018_MiniAODv2-v2_MINIAOD_v0',
+'EGamma_Run2018D-UL2018_MiniAODv2_GT36-v2_MINIAOD_v0',
 'GJets_HT-100To200_TuneCP5_13TeV-madgraphMLM-pythia8_RunIISummer20UL18MiniAODv2-4cores5k_106X_upgrade2018_realistic_v16_L1v1-v2_MINIAODSIM_v0',
 'GJets_HT-200To400_TuneCP5_13TeV-madgraphMLM-pythia8_RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2_MINIAODSIM_v0',
 'GJets_HT-400To600_TuneCP5_13TeV-madgraphMLM-pythia8_RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2_MINIAODSIM_v0',
